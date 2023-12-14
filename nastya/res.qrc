@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>hair.svg</file>
+    <file>open-mail-svgrepo-com.svg</file>
+    <file>devuska-goluboglazaa-volosay-round.png</file>
+    <file>0416856-round.png</file>
+    <file>vzglyad-devushki-s-shikarnoj-vneshnostyu-round.png</file>
+    <file>milashka-rubashka-prelest-round.png</file>
+  </qresource>
+</RCC>
